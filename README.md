@@ -9,5 +9,5 @@ Cara Running
 3. ```composer install```
 4. Buat file .env dari .env.example lalu konfigurasi file .env untuk variable DB_CONNECTION, DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME dan DB_PASSWORD
 5. ```php artisan serve```
-6. Jalankan file sql dummy_sql.sql yang ada di dalam folder Trusmi
+6. Eksekusi file sql dummy_sql.sql yang ada di dalam folder Trusmi
 7. Halaman dashboard dapat dilihat di http://localhost:8000/
