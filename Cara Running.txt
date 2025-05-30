@@ -10,5 +10,6 @@ Cara Running
 4. Buat file .env dari .env.example lalu konfigurasi file .env untuk variable DB_CONNECTION, DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME dan DB_PASSWORD. DB_CONNECTION yang digunakan adalah mysql
 5. Eksekusi file sql dummy_sql.sql yang ada di dalam folder Trusmi
 6. php artisan key:generate
-7. php artisan serve
-8. Halaman dashboard dapat dilihat di http://localhost:8000/
+7. php artisan migrate
+8. php artisan serve
+9. Halaman dashboard dapat dilihat di http://localhost:8000/
