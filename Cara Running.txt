@@ -3,6 +3,7 @@ Requirements:
 2. MySQL
 3. composer
 
+Cara Running
 1. git clone https://github.com/dimassp/Trusmi.git
 2. cd Trusmi
 3. composer install
