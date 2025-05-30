@@ -1,0 +1,5 @@
+Requirements:
+1. PHP 8.2.12
+2. MySQL
+
+1. git clone
